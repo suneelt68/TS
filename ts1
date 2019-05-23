@@ -1,3 +1,38 @@
 {
-"suneel":"kumr",
+  "Employees": [
+    {
+      "emailAddress": "romin.k.irani@gmail.com", 
+      "firstName": "Romin", 
+      "userId": "rirani", 
+      "region": "CA", 
+      "preferredFullName": "Romin Irani", 
+      "jobTitleName": "Developer", 
+      "lastName": "Irani", 
+      "phoneNumber": "408-1234567", 
+      "employeeCode": "E1"
+    }, 
+    {
+      "emailAddress": "neilrirani@gmail.com", 
+      "firstName": "Neil", 
+      "userId": "nirani", 
+      "region": "CA", 
+      "preferredFullName": "Neil Irani", 
+      "jobTitleName": "Developer", 
+      "lastName": "Irani", 
+      "phoneNumber": "408-1111111", 
+      "employeeCode": "E2"
+    }, 
+    {
+      "emailAddress": "tomhanks@gmail.com", 
+      "firstName": "Tom", 
+      "userId": "thanks", 
+      "region": "CA", 
+      "preferredFullName": "Tom Hanks", 
+      "jobTitleName": "Program Directory", 
+      "lastName": "Hanks", 
+      "phoneNumber": "408-2222222", 
+      "employeeCode": "E3"
+    }
+  ]
 }
+ 
