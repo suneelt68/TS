@@ -1,0 +1,28 @@
+[
+    {
+        "fldEngText": "Your body is preparing for your baby-to-be and some changes are taking place. However, you may not notice any of the preparations that are taking place! Or, you might feel and wonder why your mood is changing so much, or that you feel bloated and suffer stomach cramps. This is because of pregnancy hormones. At this point it is too early to see a reliable result on your pregnancy test. You may notice some bleeding or ‘spotting’ - small quantities of light pink, light red or light brown blood. This is not your period and don’t worry about the bleeding. It is not a sign that something is wrong.",
+        "fldIsActive": "1",
+        "fldMediaType": "1",
+        "fldRfId": "1",
+        "fldRn": "1",
+        "fldSendToServer": "1",
+        "fldSlNo": 1,
+        "fldTabType": "My Body",
+        "fldTeluguText": "",
+        "fldUrl": "1My Body - wk4.m4a",
+        "fldWeek": "1"
+    },
+    {
+        "fldEngText": "Your baby-to-be which is only two layers of cells (!) has found a home in your uterus. It is embedded in your uterus and makes an unbreakable physical connection to your body for the next eight months (and emotional connection for the rest of their lives!). At this point the amniotic sac or bag of waters also forms around it.",
+        "fldIsActive": "1",
+        "fldMediaType": "1",
+        "fldRfId": "2",
+        "fldRn": "2",
+        "fldSendToServer": "1",
+        "fldSlNo": 2,
+        "fldTabType": "My Baby",
+        "fldTeluguText": "",
+        "fldUrl": "2My baby - wk4.m4a",
+        "fldWeek": "1"
+    }
+]
