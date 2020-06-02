@@ -755,9 +755,9 @@
     {"fld_slno":17, "fld_rn":17, "fld_rf_id":17, "fld_form_id":105, "fld_value":"2", "fld_qn_mob_widget_id":"105007", "fld_qn_mob_child_widget_id":"105008,105009", "fld_is_cross_validation":"1", "fld_operation":"Disable", "fld_modified_no":"0", "fld_is_active":"1", "fld_sent_to_server":"0", "fld_sys_inserted_datetime":""},
     {"fld_slno":18, "fld_rn":18, "fld_rf_id":18, "fld_form_id":105, "fld_value":"4", "fld_qn_mob_widget_id":"105005", "fld_qn_mob_child_widget_id":"105006", "fld_is_cross_validation":"1", "fld_operation":"Enable", "fld_modified_no":"0", "fld_is_active":"1", "fld_sent_to_server":"0", "fld_sys_inserted_datetime":""},
     {"fld_slno":19, "fld_rn":19, "fld_rf_id":19, "fld_form_id":105, "fld_value":"2", "fld_qn_mob_widget_id":"105007", "fld_qn_mob_child_widget_id":"105010", "fld_is_cross_validation":"1", "fld_operation":"Enable", "fld_modified_no":"0", "fld_is_active":"1", "fld_sent_to_server":"0", "fld_sys_inserted_datetime":""}],
-  "master_tbl_user": [{}],
-  "master_tbl_phc": [{}],
-  "master_tbl_flw": [{}],
-  "master_tbl_sub_center": [{}],
+  "master_tbl_user": [],
+  "master_tbl_phc": [],
+  "master_tbl_flw": [],
+  "master_tbl_sub_center": [],
   "serverdatetime": "2020-06-02 14:06:27"
 }
