@@ -5406,7 +5406,7 @@
       "fld_sent_to_server" : "1",
       "fld_sys_inserted_datetime" : "",
       "fld_modified_no" : "",
-      "fld_is_cross_validation" : "",
+      "fld_is_cross_validation" : "0",
       "fld_eligible_sec_no" : "",
       "fld_qn_mob_enable_or_disable_stat" : "",
       "fld_qn_error_msg" : "",
