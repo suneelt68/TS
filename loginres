@@ -789,7 +789,7 @@
       "fld_form_id" : 103,
       "fld_value" : "1",
       "fld_qn_mob_widget_id" : "103017",
-      "fld_qn_mob_child_widget_id" : "103018,103019,103020,103021,103022,103023,103024,103025",
+      "fld_qn_mob_child_widget_id" : "103019,103020,103021,103022,103023,103024,103025",
       "fld_is_cross_validation" : "1",
       "fld_operation" : "Enable",
       "fld_modified_no" : "0",
